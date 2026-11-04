@@ -195,6 +195,15 @@ The project explored how customer characteristics, historical interactions, and 
 
 **Skills Demonstrated:** Project Leadership | Python | Tableau | Data Auditing | Exploratory Data Analysis | Logistic Regression | Machine Learning | Requirements Management | Quality Assurance | Analytical Review
 
+**Project Deliverables:**
+
+- 📁 **[GitHub Repository — Python Code, Project Report & Presentation](https://github.com/DurgaLoga/bank-marketing-subscription-prediction)**
+- 📊 **[Interactive Tableau — Bank Marketing Campaign Dashboard](https://public.tableau.com/app/profile/durga.s1183/viz/Bank-TermDepositCampaignDashboard/CampaignDashboard)**
+
+**Project Attribution:** This was a collaborative academic project. My individual technical implementations included data auditing, exploratory data analysis, Tableau visualization, Dummy Classifier and Logistic Regression baseline modeling. I also led project planning, task allocation, coordination, integration, and quality assurance. Advanced modeling experiments involving Decision Tree, Random Forest, XGBoost, feature engineering, and class imbalance treatment were completed as part of the broader team effort.
+
+**Business Value:** Demonstrated the potential of predictive analytics to support more targeted marketing decisions, while identifying practical limitations involving feature availability, class imbalance, and model performance across different campaign periods.
+
 ---
 
 ### 🌾 4. Global Cereal Import Dependency & Food-System Vulnerability
