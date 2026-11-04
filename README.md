@@ -108,7 +108,7 @@ My portfolio includes projects demonstrating practical applications of Business 
 
 The projects below reflect both independent technical development and collaborative academic work. For group projects, I have highlighted my individual contributions alongside the broader project scope.
 
-### 🛒 1. MegaMart Singapore Retail Data Command Center
+### 🛒 1. [MegaMart Singapore Retail Data Command Center](https://github.com/DurgaLoga/megamart-retail-data-command-center)
 
 An integrated business intelligence solution providing seven analytical perspectives across retail operations.
 
@@ -126,6 +126,9 @@ The solution brings together operational and business data to support management
 
 **Business Value:** Provides an integrated view of retail performance, enabling better visibility into operational efficiency, profitability, and customer behavior.
 
+**📊 [Explore Interactive Tableau Dashboard](https://public.tableau.com/app/profile/durga.s1183/viz/RetailDataCommandCenter/DataCommandCenter)**
+
+**📁 [View Project Documentation on GitHub](https://github.com/DurgaLoga/megamart-retail-data-command-center)**
 ---
 
 ### 🔬 2. Semiconductor Test Analytics & Visualization
