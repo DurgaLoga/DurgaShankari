@@ -131,7 +131,7 @@ The solution brings together operational and business data to support management
 **📁 [View Project Documentation on GitHub](https://github.com/DurgaLoga/megamart-retail-data-command-center)**
 ---
 
-### 🔬 2. Semiconductor Test Analytics & Visualization
+### 🔬 2. [Semiconductor Test Analytics & Visualization — TTIC](https://github.com/DurgaLoga/semiconductor-test-analytics)
 
 A Python-based engineering analytics solution designed to automate semiconductor test reporting and support interactive data visualization.
 
@@ -148,6 +148,9 @@ A Python-based engineering analytics solution designed to automate semiconductor
 
 **Business Value:** Designed to reduce manual reporting effort, improve visualization flexibility, and support more efficient analysis of engineering test results.
 
+**Status:** Engineering Pilot — Validation in Progress
+
+📁 [Explore Project Documentation](https://github.com/DurgaLoga/semiconductor-test-analytics)
 ---
 
 ### 🏦 3. Bank Marketing — Customer Subscription Prediction & Smart Targeting
