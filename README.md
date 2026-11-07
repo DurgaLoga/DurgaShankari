@@ -307,32 +307,54 @@ The project aimed to support operational planning, improve bike availability, op
 
 ---
 
-### ♻️ 7. Smart Waste Collection Optimization
+### ♻️ 7. [Smart Waste Collection — Monte Carlo Simulation & Policy Analysis](https://github.com/DurgaLoga/smart-waste-collection-simulation)
 
-Independently designed and developed a simulation-based analytical solution to evaluate and improve smart waste collection strategies.
+** Python, Monte Carlo Simulation & Operations Analytics**
 
-The project explored how data-driven simulation, scenario analysis, and sensitivity testing can support more efficient waste collection operations and resource utilization.
+Independently developed an end-to-end simulation-based analytical framework to evaluate smart waste collection strategies using historical smart-bin sensor observations from Wyndham, Australia.
+
+The project investigated how uncertainty in waste accumulation affects collection frequency and the risk of excessive bin fullness, demonstrating how probabilistic simulation can support data-driven operational planning and smart-city decision-making.
 
 **My Contributions:**
-- Independently managed the project from problem definition through analytical evaluation and reporting.
-- Defined the business problem, project objectives, analytical requirements, and evaluation criteria.
-- Developed the simulation framework to evaluate alternative waste collection scenarios.
-- Conducted scenario comparisons to assess operational performance.
-- Performed sensitivity analysis to evaluate how changes in collection parameters influence outcomes.
-- Analyzed simulation results to identify operational trade-offs.
-- Developed findings and recommendations to support data-driven waste collection decisions.
+- **Business Problem Definition:** Defined the operational challenge of balancing collection efficiency, resource utilization, and service quality.
+- **Data Auditing:** Examined 31,427 historical smart-bin observations, identifying duplicates, inconsistencies, and data-quality issues.
+- **Data Preparation:** Cleaned and transformed historical sensor observations into structured data suitable for probabilistic modeling.
+- **Probability Modeling:** Developed empirical probability distributions representing waste accumulation occurrence and increase magnitude.
+- **Monte Carlo Simulation:** Implemented a stochastic simulation model with 1,000 replications over a 365-day simulation horizon.
+- **Scenario Analysis:** Evaluated alternative collection thresholds to understand operational trade-offs.
+- **Sensitivity Analysis:** Investigated how changes in model assumptions and collection parameters influence simulated outcomes.
+- **Analytical Validation:** Reviewed simulation outputs, compared scenario results, and assessed operational implications.
+- **Business Insights & Recommendations:** Translated analytical findings into practical considerations for waste collection planning and resource allocation.
 
 **Key Analytical Areas:**
-- Discrete-Event Simulation
-- Scenario Modeling and Comparison
-- Sensitivity Analysis
+- Smart-Bin Sensor Data Analysis
+- Data Auditing, Cleaning & Transformation
+- Empirical Probability Modeling
+- Monte Carlo Simulation
+- Collection Threshold Evaluation
+- Scenario & Sensitivity Analysis
 - Operational Performance Evaluation
-- Resource Utilization
-- Decision Analytics
+- Smart-City Decision Analytics
 
-**Business Value:** Demonstrates how simulation and analytical experimentation can help evaluate alternative waste collection strategies, identify operational improvements, and support more informed resource allocation.
+**Technologies:** Python, pandas, NumPy, Jupyter Notebook, Monte Carlo Simulation.
 
-**Skills Demonstrated:** Independent Project Execution | Simulation Modeling | Scenario Analysis | Sensitivity Analysis | Analytical Problem-Solving | Business Recommendations
+**Key Findings:**
+- The baseline collection threshold of 8 resulted in approximately **63 annual collections**, on average.
+- Reducing the threshold to 6 increased average annual collections to approximately **75**, while reducing high-fullness exposure to **9.18%**.
+- Increasing the threshold to 10 reduced average annual collections to approximately **25**, but increased high-fullness exposure to **66.42%**.
+- Collection policies involve a measurable trade-off between operational workload and the risk of excessive bin fullness.
+
+**Business Value:** Demonstrated how probabilistic simulation and scenario analysis can support waste collection policy evaluation, operational planning, and resource allocation under uncertainty. The findings represent simulated outcomes rather than verified real-world operational improvements.
+
+**Skills Demonstrated:** Independent Project Execution | Python | Monte Carlo Simulation | Probability Modeling | Data Preparation | Scenario Analysis | Sensitivity Analysis | Operations Analytics | Decision Support
+
+**Project Deliverables:**
+
+- 📁 **[GitHub Repository — Python Code, Jupyter Notebooks, Simulation Results & Documentation](https://github.com/DurgaLoga/smart-waste-collection-simulation)**
+- 📊 **[Monte Carlo Simulation Results](https://github.com/DurgaLoga/smart-waste-collection-simulation/tree/main/results)**
+- 📄 **[Project Report & Presentation](https://github.com/DurgaLoga/smart-waste-collection-simulation/tree/main/documentation)**
+
+---
 
 ---
 
