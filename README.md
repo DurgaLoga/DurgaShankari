@@ -152,8 +152,33 @@ A Python-based engineering analytics solution designed to automate semiconductor
 
 📁 [Explore Project Documentation](https://github.com/DurgaLoga/semiconductor-test-analytics)
 ---
+### 🧞 3. SpendGini — Offline Personal Expense Intelligence
 
-### 🏦 3. Bank Marketing — Customer Subscription Prediction & Smart Targeting
+**Independent Software Development Project | Python · SQLite · JavaScript · OCR · Analytics**
+
+Developed **SpendGini**, a privacy-first personal expense management application that combines expense tracking, financial analytics, receipt processing, and an offline natural-language spending assistant.
+
+The application operates locally on Windows, helping users understand their spending without depending on cloud-based financial services.
+
+**Key Capabilities:**
+- **Financial Command Center:** Interactive spending dashboards, monthly trends, category breakdowns, and merchant analysis.
+- **Expense Management:** Transaction recording, editing, filtering, categorization, and CSV export.
+- **Recurring Expenses:** Monthly, quarterly, and yearly payment schedules.
+- **Receipt Magic:** Experimental local OCR processing with item-level extraction and manual verification.
+- **Ask Gini:** Offline, rule-based natural-language queries with supporting transaction details.
+- **Spending Intelligence:** Monthly briefings, unusual-transaction alerts, and potential savings opportunities.
+
+**Technology Stack:** Python, SQLite, HTML, CSS, JavaScript, Tesseract OCR, Pillow.
+
+**Key Takeaway:** Demonstrates end-to-end application development, data management, analytics integration, privacy-aware design, and iterative feature development.
+
+**Status:** Active Development | Private Source Code
+
+🔗 **[View SpendGini Project](https://github.com/DurgaLoga/spendgini-offline-expense-tracker)**
+---
+
+
+### 🏦 4. Bank Marketing — Customer Subscription Prediction & Smart Targeting
 
 **Academic Group Project | Project Lead, Data Analytics & Machine Learning**
 
@@ -206,7 +231,7 @@ The project explored how customer characteristics, historical interactions, and 
 
 ---
 
-### 🌾 4. Global Cereal Import Dependency & Food-System Vulnerability
+### 🌾 5. Global Cereal Import Dependency & Food-System Vulnerability
 
 **Academic Group Project | Project Lead & Tableau Dashboard Development**
 
@@ -239,7 +264,7 @@ The study examined international cereal trade patterns, import dependency, food 
 
 ---
 
-### 🏭 5. Predicting Manufacturing Product Failures Using Machine Learning
+### 🏭 6. Predicting Manufacturing Product Failures Using Machine Learning
 
 **Academic Group Project | Project Lead, Data Audit & Quality Assurance**
 
@@ -268,7 +293,7 @@ Led a team-based machine learning project focused on predicting manufacturing pr
 
 ---
 
-### 🚲 6. Bike Sharing Demand Prediction
+### 🚲 7. Bike Sharing Demand Prediction
 
 **Academic Group Project | Project Lead, Data Audit & Business Insights**
 
@@ -307,7 +332,7 @@ The project aimed to support operational planning, improve bike availability, op
 
 ---
 
-### ♻️ 7. [Smart Waste Collection — Monte Carlo Simulation & Policy Analysis](https://github.com/DurgaLoga/smart-waste-collection-simulation)
+### ♻️ 8. [Smart Waste Collection — Monte Carlo Simulation & Policy Analysis](https://github.com/DurgaLoga/smart-waste-collection-simulation)
 
 ** Python, Monte Carlo Simulation & Operations Analytics**
 
